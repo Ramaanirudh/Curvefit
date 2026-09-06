@@ -1,4 +1,4 @@
-# R&D / AI Assignment — Parametric Curve Fitting
+# Parametric Curve Fitting
 
 ## Problem
 
