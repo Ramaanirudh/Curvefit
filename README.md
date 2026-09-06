@@ -73,6 +73,11 @@ local-minimum approximation.
 ```
 \left(t\cos(0.5236)-e^{0.03\left|t\right|}\cdot\sin(0.3t)\sin(0.5236)+55,\ 42+t\sin(0.5236)+e^{0.03\left|t\right|}\cdot\sin(0.3t)\cos(0.5236)\right)
 ```
+### Desmos Link
+```
+https://www.desmos.com/calculator/9w1zs1k2sh
+```
+
 
 ## Running it
 
